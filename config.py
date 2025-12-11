@@ -8,5 +8,5 @@ bot = Bot(token=os.getenv("BOT_TOKEN"))
 dp = Dispatcher()
 
 channels = {
-    "🪐 Тестовый канал": "https://t.me/avotests",
+    "Название канала": "Ссылка на канал",
 }
